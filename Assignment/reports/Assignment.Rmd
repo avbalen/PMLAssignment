@@ -17,8 +17,7 @@ opts_knit$set(root.dir='..')
 
 
 
-```{r, echo=FALSE}
-
+```{r, message=FALSE}
 load.project()
 ```
 
